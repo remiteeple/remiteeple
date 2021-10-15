@@ -7,11 +7,6 @@
 
 - 📄 Résumé: [**Right Here!**](https://remi.works/files/resume.pdf?)
 
-<h2 align="left">Statistics</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=remiteeple&show_icons=true&theme=dark&hide_border=true&layout=compact&locale=en" alt="remiteeple" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=remiteeple&show_icons=true&theme=dark&hide_border=true&layout=compact&locale=en" alt="remiteeple" /></p>
-
 <h2 align="left">🧰 Languages & Tools</h2>
 
 <h3 align="left">🚀 Core</h3>
