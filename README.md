@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Remi Teeple</h1>
+<h1 align="center">Hi there, I'm Remi Teeple</h1>
 <h3 align="center">I am an eager full-stack game / software developer & I 💖 code.</h3>
 
 - 👨‍💻 Projects: [**GitHub**](https://github.com/remiteeple)
