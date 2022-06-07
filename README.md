@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Remi Teeple</h1>
-<h3 align="center">I am an eager full-stack game / software developer & I 💖 code.</h3>
-
-- 👨‍💻 Projects: [**GitHub**](https://github.com/remiteeple)
+<h3 align="center">I am an eager full-stack game & software developer.</h3>
 
 - 📁 Portfolio: [**remi.works**](https://remi.works)
 
